@@ -7,8 +7,8 @@
 <body>
  <h1>PHP</h1>
  <?php
- echo "Primeira Linha<br>";
- echo "Segunda Linha<br>";
+ echo "testando a primeira linha do PHP , programador backend <br>";
+ echo "vivendo e aprendendo <br>";
  ?>
 </body>
 </html>
